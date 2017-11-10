@@ -1,4 +1,4 @@
-= Bisq network "analytics"
+= Bisq network analytics
 
 This repository is for tracking key data and metrics related to the Bisq network, for example, https://docs.google.com/spreadsheets/d/1M8y2cIlHv5Hx5UAt4WZ961Ac8xaNSLiiavjxabNf0qc/edit#gid=966637110[Global Trading Volume in USD] (Google Sheet).
 
@@ -6,4 +6,4 @@ If you have questions or comments, come chat with us in the `#analytics` channel
 
 If you have a specific request or issue related to these numbers or spreadsheets, please open a GitHub issue in this repository.
 
-See also the https://github.com/bisq-network/roles/issues/40[number cruncher] role.
+See also the https://github.com/bisq-network/roles/issues/40[analyst] role.
